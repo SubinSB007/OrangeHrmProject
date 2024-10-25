@@ -1,0 +1,28 @@
+2024-10-25 00:03:05 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 00:03:11 INFO  TC_001_DataProviderLoginTest:60 - ***Data drivern login test ended***
+2024-10-25 00:03:11 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 00:03:13 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 00:03:17 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 00:03:20 INFO  TC_001_DataProviderLoginTest:60 - ***Data drivern login test ended***
+2024-10-25 00:03:32 INFO  TC_LoginTest:20 - ***Starting positive login test case***
+2024-10-25 00:03:32 INFO  TC_LoginTest:25 - Entering  valid username and password
+2024-10-25 00:03:32 INFO  TC_LoginTest:28 - Clicked on login button
+2024-10-25 00:03:37 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-25 00:03:37 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-25 00:03:37 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-25 00:03:40 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-25 00:03:40 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-25 00:03:40 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-25 13:53:09 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 13:53:16 INFO  TC_001_DataProviderLoginTest:60 - ***Data drivern login test ended***
+2024-10-25 13:53:16 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 13:53:19 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 13:53:23 INFO  TC_001_DataProviderLoginTest:18 - ***data driven Login test started***
+2024-10-25 13:53:27 INFO  TC_001_DataProviderLoginTest:60 - ***Data drivern login test ended***
+2024-10-25 13:53:39 INFO  TC_LoginTest:20 - ***Starting positive login test case***
+2024-10-25 13:53:39 INFO  TC_LoginTest:25 - Entering  valid username and password
+2024-10-25 13:53:39 INFO  TC_LoginTest:28 - Clicked on login button
+2024-10-25 13:53:42 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-25 13:53:42 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-25 13:53:47 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-25 13:53:47 INFO  TC_LoginTest:42 - Entering  invalid username and password

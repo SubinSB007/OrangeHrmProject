@@ -1,0 +1,19 @@
+2024-10-23 20:46:49 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-23 20:46:52 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-23 20:46:52 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-23 20:46:53 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-23 20:46:54 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-23 20:46:54 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-23 20:46:55 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-23 20:46:57 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-23 20:46:57 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-23 20:46:58 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-23 20:46:58 INFO  TC_LoginTest:20 - ***Starting positive login test case***
+2024-10-23 20:46:58 INFO  TC_LoginTest:25 - Entering  valid username and password
+2024-10-23 20:46:58 INFO  TC_LoginTest:28 - Clicked on login button
+2024-10-23 20:47:04 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-23 20:47:04 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-23 20:47:05 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-23 20:47:07 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-23 20:47:07 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-23 20:47:07 INFO  TC_LoginTest:45 - Clicking login button

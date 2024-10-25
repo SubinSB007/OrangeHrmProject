@@ -1,0 +1,6 @@
+2024-10-18 18:27:20 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-18 18:27:20 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-18 18:27:21 INFO  TC_LoginTest:45 - Clicking login button
+2024-10-18 18:27:23 INFO  TC_LoginTest:38 - ***Starting negative test case***
+2024-10-18 18:27:23 INFO  TC_LoginTest:42 - Entering  invalid username and password
+2024-10-18 18:27:23 INFO  TC_LoginTest:45 - Clicking login button
