@@ -21,3 +21,5 @@ The framework aims to automate the testing of web applications, providing a stru
 - **Data-Driven Testing**: Supports reading test data from Excel files, allowing for extensive test coverage with various input scenarios.
 - **Comprehensive Reporting**: Generates detailed test reports with screenshots and logs using ExtentReports.
 - **Modular Structure**: The framework is organized to allow easy expansion and addition of new test cases.
+## License
+[MIT License](LICENSE)
